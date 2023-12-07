@@ -1,0 +1,114 @@
+hr {
+    border-bottom: 2px solid #3B82F6;
+}
+
+i, a {
+    margin-left: 5px;
+    color: #3B82F6;
+    height: 10px;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    display: flex;
+    padding: 5px;
+    justify-content: left;
+}
+
+ul{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    align-items: center;
+    padding: 1px;
+    margin-top: 5px;
+}
+
+
+.acitametam{
+    color: #3B82F6;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    height: 10px;
+    align-items: baseline;
+    font-weight: bold;
+}
+
+.menu{
+    color: #3B82F6;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    height: 10px;
+    align-items: baseline;
+    font-weight: bold;
+}
+
+.menu2{
+    cursor: pointer;
+    position: relative;
+    width: 80px;
+    text-align: center;
+    border: 2px solid;
+    padding: 2.5px;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.menu2:hover{
+    background-color: rgb(2, 126, 197);
+    color: white;
+}
+
+.bhaskbox{
+    text-align: center;
+    border: 2px solid;
+    display: block;
+    justify-content: center;
+    position: relative;
+    border-radius: 30px;
+    width: 50%;
+    height: 50%;
+}
+
+.letter{
+    display: inline-block;
+    padding-inline: 93px;
+}
+
+.caixa{
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid #4e4e4e;
+    box-sizing: border-box;
+    width: 80px;
+    height: 20px;
+}
+
+.calcular{
+    background-color: rgb(115, 30, 190);
+    color: white;
+    cursor: pointer;
+    width: 80px;
+    padding: 2.5px;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.title{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    color: rgb(115, 30, 190);
+    text-align: center;
+    margin-top: 5%;
+}
+.calcular-button {
+    cursor: pointer;
+    transition: background-color 0.1s;
+   }
+   .calcular-button:hover{
+    background-color: #3B82F6;
+}

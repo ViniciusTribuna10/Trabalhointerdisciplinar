@@ -1,0 +1,120 @@
+.container {
+  display: flex;
+  }
+  .svg {
+  width: 10px;
+  height: 10px;
+  }
+     
+  .acitametam {
+  color: #000000;
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  position: absolute;
+  padding-bottom: 6%;
+  
+  }
+     
+  ul {
+  display: flex;
+  justify-content: right;
+  list-style-type: none;
+  align-items: center;
+  padding: 1px;
+  margin-top: 5px;
+  }
+     
+  li {
+  display: flex;
+  padding: 5px;
+  justify-content: left;
+  }
+     
+  i, a {
+  margin-left: 5px;
+  color: #000000;
+  height: 10px;
+  vertical-align: middle;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+     
+  hr {
+  border-bottom: 2px solid #000000;
+  }
+  
+
+ .contato{
+  color: black;
+  font-size: 64px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 400;
+  padding-top: 9%;
+  padding-left: 40%;
+  position: absolute;
+  
+ }
+
+
+ .contatologo{
+  display: flex;
+  padding-left: 34%;
+  padding-top: 9.5%;
+  position: relative; 
+  background: white"
+ }
+
+.email{
+  padding-top: 5%;
+  padding-left: 5%;
+  position: absolute;
+}
+
+ .nome{
+  padding-left: 53.9%;
+  padding-top: 5%;
+  position: absolute;
+ }
+
+
+ .input-nome, .input-email {
+  width: 700px;
+  height: 100px;
+  position: absolute;
+  background: white;
+  border: 1px black solid;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+ 
+}
+.input-email {
+  color: black;
+  left: 80px;
+  top: 570px;
+  display: flex;
+  justify-content: center;
+
+}
+.input-nome{
+  color: black;
+  left: 850px;
+  top: 570px;
+  display: flex;
+}
+
+.mensagem{
+  display: flex;
+  position: absolute;
+
+ 
+}
+
+
+.voltarcalculadora{
+  display: flex;
+  
+  
+
+}
